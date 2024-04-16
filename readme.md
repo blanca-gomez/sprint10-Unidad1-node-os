@@ -34,8 +34,7 @@ En el archivo `networkModule.js` deberás sacar los siguientes datos de red:
 
 **Ejemplo de output:**
 Interfaz lo0:
-  Familia: IPv4
-  Dirección: 127.0.0.1
+  Familia: IPv4  Dirección: 127.0.0.1
   Interno: true
   Familia: IPv6
   Dirección: ::1
